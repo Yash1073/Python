@@ -1,7 +1,7 @@
-CONSTANT="Yash Parmar"
+CONSTANT="Yash Parmar "
 class A:
     pass
-
+     
 def add(a,b):
     return a+b
 def sub(a,b):
